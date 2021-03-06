@@ -1,0 +1,6 @@
+[submodule "rusty-grid"]
+	path = rusty-grid
+	url = https://github.com/kiprasmel/rusty-grid
+[submodule "server-party"]
+	path = server-party
+	url = https://github.com/kiprasmel/server-party
