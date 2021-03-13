@@ -6,6 +6,7 @@ a meta-repo / collection of various challenges, mostly from interviewing 👀
 
 ### 2021
 
+- shape-flow (private)
 - [rusty-grid](http://github.com/kiprasmel/rusty-grid)
 
 ### 2020

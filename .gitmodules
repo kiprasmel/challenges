@@ -4,3 +4,6 @@
 [submodule "server-party"]
 	path = server-party
 	url = https://github.com/kiprasmel/server-party
+[submodule "shape-flow"]
+	path = shape-flow
+	url = git@github.com:kiprasmel/shape-flow.git
